@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IBClasses</key>
+	<array>
+		<dict>
+			<key>ACTIONS</key>
+			<dict>
+				<key>serviceClicked</key>
+				<string>id</string>
+			</dict>
+			<key>CLASS</key>
+			<string>PicBrowserController</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>OUTLETS</key>
+			<dict>
+				<key>ArtistList</key>
+				<string>id</string>
+				<key>hostNameField</key>
+				<string>id</string>
+				<key>imageView</key>
+				<string>id</string>
+				<key>ipAddressField</key>
+				<string>id</string>
+				<key>pictureServiceList</key>
+				<string>id</string>
+				<key>portField</key>
+				<string>id</string>
+				<key>progressIndicator</key>
+				<string>NSProgressIndicator</string>
+			</dict>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>FirstResponder</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+	</array>
+	<key>IBVersion</key>
+	<string>1</string>
+</dict>
+</plist>
