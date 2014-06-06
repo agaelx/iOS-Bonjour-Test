@@ -1,0 +1,4 @@
+In file included from /Users/uriel/Documents/@School/@PProfesionales II/BonjourImage/OSXBonjourMusicRemote/TablaArtistas.m:9:
+/Users/uriel/Documents/@School/@PProfesionales II/BonjourImage/OSXBonjourMusicRemote/TablaArtistas.h:13: error: syntax error before 'IBOutlet'
+/Users/uriel/Documents/@School/@PProfesionales II/BonjourImage/OSXBonjourMusicRemote/TablaArtistas.m:14: error: syntax error before 'NSTableView'
+/Users/uriel/Documents/@School/@PProfesionales II/BonjourImage/OSXBonjourMusicRemote/TablaArtistas.m:19: error: syntax error before 'NSTableView'
