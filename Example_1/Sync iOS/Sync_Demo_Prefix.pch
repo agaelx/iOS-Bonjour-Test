@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'Sync Demo' target in the 'Sync Demo' project
-//
-
-#ifdef __OBJC__
-	#import <Foundation/Foundation.h>
-	#import <UIKit/UIKit.h>
-#endif

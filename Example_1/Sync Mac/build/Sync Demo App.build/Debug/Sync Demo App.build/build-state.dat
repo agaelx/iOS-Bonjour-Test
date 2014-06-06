@@ -1,196 +1,0 @@
-TSync Demo App
-v7
-r0
-t317635841.980713
-cCheck dependencies
-cProcessInfoPlistFile "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Info.plist" Info.plist
-cCopyStringsFile "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-cCompileXIB "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib"
-cProcessPCH "/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch.gch" "Sync Demo App_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/main.o" "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/MainWindowController.o" "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App" normal i386
-cTouch "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app"
-
-N/Developer/SDKs/MacOSX10.5.sdk
-c000000004C445C5F00000000000000EE
-t1279548511
-s238
-
-N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/InfoPlist.strings
-c00000000487B0869000000000000005C
-t1216022633
-s92
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib
-c00000000487B357E00000000000285ED
-t1216034174
-s165357
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.h
-c00000000487B1065000000000000020F
-t1216024677
-s527
-i<Cocoa/Cocoa.h>
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m
-c00000000487B1B2D0000000000000859
-t1216027437
-s2137
-i"MainWindowController.h"
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/Sync Demo App_Prefix.pch
-c00000000487B0869000000000000009D
-t1216022633
-s157
-i<Cocoa/Cocoa.h>
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app
-t1295942205
-s102
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Info.plist
-t1295942202
-s787
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App
-t1295942205
-s19368
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/PkgInfo
-t1295942202
-s8
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1295942202
-s92
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/MainMenu.nib
-t1295942202
-s38268
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/MainWindowController.o
-t1295942205
-s26956
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/Sync Demo App.LinkFileList
-c000000004D3E823A0000000000000140
-t1295942202
-s320
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/main.o
-t1295942205
-s4924
-
-N/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m
-c00000000487B086900000000000000FC
-t1216022633
-s252
-i<Cocoa/Cocoa.h>
-
-N/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch.gch
-t1295942205
-s54071728
-
-NInfo.plist
-c00000000487B08690000000000000357
-t1216022633
-s855
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies317635841#317635841#0(0"0(0#1#0"32651513917735028#0"0#
-
-CCompileC "build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/MainWindowController.o" "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s317635005.112701
-e317635005.289850
-r1
-xCompileC
-xbuild/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/MainWindowController.o
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@103"Compile /Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m317635005#317635005#0(0"0(0#0#95"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m8590100352#1992"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-generated-files.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-own-target-headers.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-all-target-headers.hmap" -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-project-headers.hmap" "-F/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/include" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources/i386" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources" -include "/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch" -c "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/MainWindowController.m" -o "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/MainWindowController.o"0#
-
-CCompileC "build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/main.o" "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s317635005.111674
-e317635005.271835
-r1
-xCompileC
-xbuild/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/main.o
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m317635005#317635005#0(0"0(0#0#79"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m8603714304#1960"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-generated-files.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-own-target-headers.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-all-target-headers.hmap" -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-project-headers.hmap" "-F/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/include" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources/i386" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources" -include "/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch" -c "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/main.m" -o "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/main.o"0#
-
-CCompileXIB "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib"
-s317635002.160082
-e317635002.502501
-r1
-xCompileXIB
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib317635002#317635002#0(0"0(0#0#99"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib8604376128#478"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.5.sdk0#
-
-CCopyStringsFile "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-s317635002.159121
-e317635002.188117
-r1
-xCopyStringsFile
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings317635002#317635002#0(0"0(0#0#104"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/English.lproj/InfoPlist.strings8030604695492391936#444"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Resources/English.lproj"0#
-
-CLd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App" normal i386
-s317635005.289950
-e317635005.358564
-r1
-xLd
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App
-xnormal
-xi386
-lSLF07#2@136"Link /Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App317635005#317635005#0(0"0(0#0#0"8602893472#748"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk "-L/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug" "-F/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug" -filelist "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Objects-normal/i386/Sync Demo App.LinkFileList" -mmacosx-version-min=10.5 -framework Cocoa -o "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/MacOS/Sync Demo App"0#
-
-CProcessInfoPlistFile "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Info.plist" Info.plist
-s317635002.147427
-e317635002.159021
-r1
-xProcessInfoPlistFile
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist317635002#317635002#0(0"0(0#0#83"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/Info.plist2334393406631995904#422"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app/Contents/Info.plist"0#
-
-CProcessPCH "/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch.gch" "Sync Demo App_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
-s317635002.502654
-e317635005.111479
-r1
-xProcessPCH
-x/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch.gch
-xSync Demo App_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@35"Precompile Sync Demo App_Prefix.pch317635002#317635005#0(0"0(0#0#97"/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/Sync Demo App_Prefix.pch8601375168#1826"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-generated-files.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-own-target-headers.hmap" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-all-target-headers.hmap" -iquote "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/Sync Demo App-project-headers.hmap" "-F/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/include" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources/i386" "-I/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Sync Demo App.build/Debug/Sync Demo App.build/DerivedSources" -c "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/Sync Demo App_Prefix.pch" -o "/var/folders/gV/gVk20AAEH74FO-DNgJxVkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Sync Demo App_Prefix-aeklifxfxaihljedpcbmshgnyiii/Sync Demo App_Prefix.pch.gch"0#
-
-CTouch "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app"
-s317635005.358658
-e317635005.361376
-r1
-xTouch
-x/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app
-lSLF07#2@108"Touch /Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app317635005#317635005#0(0"0(0#0#0"8602613088#209"    cd "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App"    /usr/bin/touch -c "/Users/Uriel/Downloads/iphone mac bonjour/iPhone Sync Demo/Sync Demo App/build/Debug/Sync Demo App.app"0#
-
