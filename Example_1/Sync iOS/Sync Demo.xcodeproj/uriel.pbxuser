@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Sync_DemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 508}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Sync_DemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {894, 644}}";
+			sepNavSelRange = "{276, 3}";
+			sepNavVisRange = "{176, 757}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sync Demo */ = {
+		activeExec = 0;
+		executables = (
+			A4806A2312EEB9C800B5E130 /* Sync Demo */,
+		);
+	};
+	28216C950DB411BC00E5133A /* SyncServiceController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 508}}";
+			sepNavSelRange = "{312, 42}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	28216C960DB411BC00E5133A /* SyncServiceController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1722, 1960}}";
+			sepNavSelRange = "{3966, 0}";
+			sepNavVisRange = "{414, 1602}";
+		};
+	};
+	28A0AB4B0D9B1048005BE974 /* Sync_Demo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 508}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 181}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A4806A2312EEB9C800B5E130 /* Sync Demo */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sync Demo */;
+		codeSenseManager = A4806A3912EEB9E100B5E130 /* Code sense */;
+		executables = (
+			A4806A2312EEB9C800B5E130 /* Sync Demo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319161938;
+			PBXWorkspaceStateSaveDate = 319161938;
+		};
+		sourceControlManager = A4806A3812EEB9E100B5E130 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 508}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 340}";
+		};
+	};
+	760B15820E2B534600B03069 /* AppDataViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 508}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 308}";
+		};
+	};
+	760B15830E2B534600B03069 /* AppDataViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 896}}";
+			sepNavSelRange = "{616, 0}";
+			sepNavVisRange = "{178, 922}";
+		};
+	};
+	A4806A2312EEB9C800B5E130 /* Sync Demo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Sync Demo";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	A4806A3812EEB9E100B5E130 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A4806A3912EEB9E100B5E130 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
